@@ -1,4 +1,4 @@
-parkhopscotch
+Park Hopscotch
 =============
 
 This is a finder and leader board for hopscotch games occuring in parks around the city of Portland, OR.
